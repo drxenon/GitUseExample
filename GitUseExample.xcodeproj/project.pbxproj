@@ -12,6 +12,7 @@
 		F0118DFD2060A86F000C199C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0118DFB2060A86F000C199C /* Main.storyboard */; };
 		F0118DFF2060A86F000C199C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0118DFE2060A86F000C199C /* Assets.xcassets */; };
 		F0118E022060A86F000C199C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0118E002060A86F000C199C /* LaunchScreen.storyboard */; };
+		F0118E0A2060ADD3000C199C /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0118E092060ADD3000C199C /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F0118DFE2060A86F000C199C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0118E012060A86F000C199C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0118E032060A86F000C199C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0118E092060ADD3000C199C /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F0118DF72060A86F000C199C /* AppDelegate.swift */,
 				F0118DF92060A86F000C199C /* ViewController.swift */,
+				F0118E092060ADD3000C199C /* MapForItinerary.swift */,
 				F0118DFB2060A86F000C199C /* Main.storyboard */,
 				F0118DFE2060A86F000C199C /* Assets.xcassets */,
 				F0118E002060A86F000C199C /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				F0118DFA2060A86F000C199C /* ViewController.swift in Sources */,
 				F0118DF82060A86F000C199C /* AppDelegate.swift in Sources */,
+				F0118E0A2060ADD3000C199C /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
